@@ -1,7 +1,7 @@
 # 👩‍💻 Samantha Chuta
 
 ## Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência em análise de dados e interesse em desenvolvimento e tecnologia.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência em análise de dados.
 
 ## Tecnologias
 - Python
