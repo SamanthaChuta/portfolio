@@ -4,11 +4,15 @@
 Sou estudante de Análise e Desenvolvimento de Sistemas, com experiência em análise de dados.
 
 ## Tecnologias
-- Python
-- SQL
-- Git & GitHub
-- Noções de APIs REST
-- Análise de dados
+Java
+Javascript
+Python
+Spring Fremework
+API's
+MySQL/SQL
+Git / GitHub / GitLab
+Metodologia Ágeis
+
 
 ## Projetos
 🚧 Em construção
